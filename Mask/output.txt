@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='infiles.txt' mode='w' encoding='cp1252'>
